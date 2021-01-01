@@ -1,0 +1,2 @@
+# Age_Structure_Predictor
+This project considers the prediction of the age structure/population pyramid of the United Kingdom based on ONS/UN data for birth rates, mortalities, and net migration values starting with initial an age structure based on ONS data for 1991. Birth rate and net migration data are predicted up to 2100 by the UN. Mortality rates per age group are predicted up to 2100 using the mortalityPredictor.py script. 
